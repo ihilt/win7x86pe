@@ -1,0 +1,1 @@
+cscript.exe UpdateSID.vbs

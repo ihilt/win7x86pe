@@ -1,0 +1,5 @@
+packages/
+pe/
+bin/
+ISO/IMAGE.BAT
+*.wim
