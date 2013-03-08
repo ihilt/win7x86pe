@@ -3,3 +3,4 @@ pe/
 bin/
 ISO/IMAGE.BAT
 *.wim
+mount/*
